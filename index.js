@@ -10,7 +10,7 @@ const dashboard = new ParseDashboard({
     "apps": [
         {
             "serverURL": process.env.server_url,
-            "appId": process.env.app_id",
+            "appId": process.env.app_id,
             "masterKey": process.env.master_key,
             "appName": "MyApp"
         }
